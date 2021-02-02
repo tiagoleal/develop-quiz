@@ -3,7 +3,6 @@
    <img alt="QuizDevelop" src="https://github.com/tiagoleal/develop-quiz/blob/main/assets/logo.png?raw=true" width="200">
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/tiagoleal/develop-quiz">
     <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg">
@@ -18,8 +17,6 @@
   <a href="https://nextjs.com/pt-br/">
     <img alt="" src="https://img.shields.io/badge/nextjs-10.0.5-red.svg" target="_blank">
   </a>
-  
-  
 </p>
 
 ## Quiz Develop
