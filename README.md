@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-   <img alt="Ecoleta" src="https://github.com/tiagoleal/develop-quiz/assets/logo.png?raw=true" width="200">
+   <img alt="QuizDevelop" src="https://github.com/tiagoleal/develop-quiz/tree/main/assets/logo.png?raw=true" width="200">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ## Quiz Develop
 
-![](https://github.com/tiagoleal/develop-quiz/assets/quizalura.gif)
+![](https://github.com/tiagoleal/develop-quiz/tree/main/assets/quizalura.gif)
 
 ## Stack the Project
 
